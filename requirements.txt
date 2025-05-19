@@ -2,3 +2,4 @@ pandas
 streamlit
 sweetviz
 setuptools
+numpy
